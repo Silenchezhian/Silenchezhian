@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Sahana (she/her) - a computer science student at San Jose State University. I'm passionate about computer science and how it can be used to make a direct positive impact on people. I enjoy reading historical fiction, creative writing, watercolor painting, and swimming. I'm currently looking for SWE summer internships. 
+Hi, I'm Sahana (she/her) - a computer science student at San Jose State University. I'm passionate about technology and how it can be used to make a direct positive impact on people. I enjoy reading historical fiction, creative writing, watercolor painting, and swimming. I'm currently looking for SWE summer internships. 
 
 🔭 I previously worked on ...
 
